@@ -1,0 +1,6 @@
+[versions]
+kotlin = "2.0.21"
+gradle = "8.11.1"
+
+[plugins]
+kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
